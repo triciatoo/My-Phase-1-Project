@@ -18,15 +18,15 @@ The company is expanding into the aviation sector but lacks knowledge of risks a
 ### Key Visualizations
 1. **Accidents Over Time**  
    Aviation accidents have declined significantly since the 1980s.  
-   ![Accidents Over Time](images/accidents_over_time.png)  
+   ![Accidents Over Time](accidents_over_time.png)  
 
 2. **Accidents by Number of Engines**  
    Single-engine aircraft dominate accident counts, while multi-engine planes are safer.  
-   ![Accidents by Engines](images/accidents_by_engines.png)  
+   ![Accidents by Engines](accidents_by_engines.png)  
 
 3. **Accidents by Manufacturer**  
    Cessna, Piper, and Beech appear most frequently, reflecting widespread use rather than poor design.  
-   ![Accidents by Manufacturer](images/accidents_by_manufacturer.png)  
+   ![Accidents by Manufacturer](accidents_by_manufacturer.png)  
 
 ## Conclusion
 - Aviation accidents have declined significantly since the 1980s due to stronger regulations and better technology.  
