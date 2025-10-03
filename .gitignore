@@ -1,0 +1,32 @@
+# Python cache & bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+.env/
+.venv/
+env/
+venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Large raw data files (keep only cleaned small CSVs)
+Aviation_Data.csv
+*.zip
+*.tar
+*.gz
+
+# Project-specific ignores
+*.bak
+*.swp
